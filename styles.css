@@ -1,0 +1,147 @@
+    body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .a-topnav:link{
+            margin-right : 10px ; 
+            color : grey ; 
+            font-size: 16px ;
+        }
+        .a-topnav:visited{ 
+            color : grey ; 
+        }
+        .iit_delhi{
+            font-size: 16px ;
+        }
+     .nav_2{
+        background-color: black;
+        width: 100%;
+        height : 40px; 
+       padding-top: 15px;
+       border-radius: 10px;
+     }
+       .a_2_link:link{
+        color : white ; 
+        margin-left : 20px ; 
+        font-size: 18px; 
+       }
+       .a_2_link:visited{
+        color: white;
+        margin-left: 20px;
+        font-size: 18px;
+       }
+       .logo_hindi{
+        margin-top: 5px ;
+        position: absolute;
+        left : 350px;
+        top: 280px ; 
+       }
+       .wss{
+        font-size: 35px;
+        color : #2192FF ; 
+        position : absolute ; 
+        top: 250px;
+        right : 250px ; 
+       }
+       .wss2{
+        font-size: 35px;
+        color : #2192FF ; 
+        position : absolute ; 
+        top : 310px ; 
+        right : 275px ; 
+       }
+       .wss_p{
+        font-size : 32px; 
+        position : absolute ; 
+        top : 380px ; 
+        left: 30px ;
+       }
+       .wss_p2{
+        position : absolute ; 
+        top : 440px ; 
+        left: 30px;
+       }
+       .wss_p3{
+        position : absolute ; 
+        top : 465px ; 
+        left: 30px;
+       }
+      div{
+        display: inline-block;
+      }
+      .details{
+        position: absolute;
+        left : 400px ;
+        top : 400px ;
+      }
+      .details_2{
+        position: absolute ;
+        left : 1143px ; 
+        top : 400px ; 
+      }
+      .person_1_img{
+        position: absolute ;
+        top : 550px ; 
+
+      }
+      .person_1_para{
+        position: absolute ;
+        left : 170px ; 
+        top : 565px ; 
+      }
+      .person_2_img{
+        position : absolute ; 
+        top : 550px ; 
+        left : 350px ;
+      }
+      .person_2_para{
+        position : absolute ; 
+        top : 565px ; 
+        left : 520px ; 
+      }
+      .person_3_img{
+        position : absolute ; 
+        top : 550px ; 
+        left : 715px ; 
+      }
+      .person_3_para{
+        position : absolute ; 
+        top : 565px ;
+        left : 880px ;  
+      }
+      .link33:link{
+        color : black;
+      }
+      .link33:visited{
+        color: black;
+      }
+      .pagination{
+        font-size: 20px ;
+        height : 50px ; 
+        width : 745px ; 
+        border : solid 1px black ; 
+        border-radius: 10px;
+        text-align: center;
+        margin-right : 50px ; 
+        position: absolute;
+        top: 750px;
+        left : 400px ;  
+      }
+      .pg2{
+        height: 35px;
+        text-align: center;
+        margin-left: 15px;
+        padding-top : 15px ; 
+        padding-right: 80px;
+        border-right: solid 1px black;
+      }
+      .pg3{
+        height: 35px;
+        text-align: center;
+        margin-left: 10px;
+        padding-top : 15px ; 
+        padding-right: 80px;
+        border-right: solid 1px black;
+        border-radius: 10px;
+      }
+      
+      
